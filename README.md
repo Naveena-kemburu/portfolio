@@ -2,9 +2,6 @@
 
 A fully responsive personal portfolio website built with React, Vite, Tailwind CSS, and CSS scroll animations.
 
-## Author
-
-Kemburu Naveena — Frontend Developer
 
 ## Tech Stack
 
@@ -33,11 +30,3 @@ npm run build
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## Features
-
-- Fully responsive (375px / 768px / 1280px)
-- Parallax scrolling effect on hero background orbs
-- 3+ on-scroll fade-up animations (About, Skills cards, Project cards)
-- `prefers-reduced-motion` accessibility support
-- Sticky navigation with mobile hamburger menu
-- Sections: Hero, About, Skills, Projects, Contact, Footer
