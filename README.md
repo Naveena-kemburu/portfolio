@@ -13,7 +13,7 @@ A fully responsive personal portfolio website built with React, Vite, Tailwind C
 
 ## Live Site
 
-[https://your-name.vercel.app](https://your-name.vercel.app)
+https://portfolio-dl6qmwps6-naveena-kemburus-projects.vercel.app
 
 ## Running Locally
 
